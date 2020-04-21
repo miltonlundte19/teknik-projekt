@@ -17,6 +17,8 @@ mapp.
 När det är klart så kan du välja att öppna arbetet i Visual studio code för att komma åt filerna, men vi kommer
 först arbeta med verktygen som finns tillgänliga på githubs webbplats.
 
+## Projekt
+
 Så surfa till repot du nu har klonat i webbläsaren.
 
 På ditt repo så leta upp följande länkar, de använder du för att komma åt Project vyn och ditt repos wiki.
@@ -40,7 +42,37 @@ Varje kort har en meny där du kan ändra det osv.
 När du väljer Edit på ett kort så får du upp en modal där du kan redigera det. Texten skrivs i ett format som
 heter [Markdown](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet), samma format som det är i README här på GIT och även dess wiki som vi ska titta senare på.
 
-Spara det du har arbetat med i mappen
+![](https://raw.githubusercontent.com/jensnti/teknik-projekt/master/assets/card_edit.png)
+
+Testa nu att göra några kort, flytta dem, skapa en checklista i ett kort och arkivera det.
+
+## Wiki
+
+För att skapa en wiki för ditt projekt så navigerar du i menyn till Wiki, där klickar du sedan på att skapa ny sida.
+
+![](https://raw.githubusercontent.com/jensnti/teknik-projekt/master/assets/wiki_create.png)
+
+Det tar dig till redigeringsfönstret för din wikis startsida.
+
+![](https://raw.githubusercontent.com/jensnti/teknik-projekt/master/assets/wiki_create_new.png)
+
+För att skapa fler sidor så klicka du på create page knappen i din wiki.
+
+![](https://raw.githubusercontent.com/jensnti/teknik-projekt/master/assets/wiki_new_page.png)
+
+Skapa där en sida för ditt projekts loggbok. Där du ska skriva ned vad du gjort efter varje arbetspass.
+
+![](https://raw.githubusercontent.com/jensnti/teknik-projekt/master/assets/wiki_new_page_logg.png)
+
+Behöver du använda bilder, så lägger du till dem till ditt projekt och commitar, pushar.
+Du kan sedan surfa till bilden på git, clicka på download. Du kan då kopiera den URL som din webbläsare visar.
+Den pekar till raw.github... och där ligger din bild. Du länkar sedan in den i din [markdown](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet#images).
+
+![](https://raw.githubusercontent.com/jensnti/teknik-projekt/master/assets/image_link_url.png)
+
+## Commit & Push
+
+Om du har skapat nya filer på din dator som tillhör projektet, spara då det du har arbetat med i mappen som heter projekt.
 
     projekt/
 
