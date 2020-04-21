@@ -65,3 +65,4 @@ I er inlämning så är inte slutprodukten det viktiga utan fokus för bedömnin
 * Redovisning
 
 Alla delarna ska finnas med och vara noggrant gjorda. Loggbok och eventuella git commits visar er process.
+Det är viktigt att ni visar att ni kan använda GIT som verktyg.
