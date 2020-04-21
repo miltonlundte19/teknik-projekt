@@ -20,6 +20,9 @@ Det kan till exempel vara
   * Välj ett språk, planera ett litet program.
   * Koda och visa!
 
+Det är okej att jobba på liknande projekt, ni kan skapa olika versioner. Kom bara ihåg att redovisningen och dokmentation
+är individuell.
+
 ## Dokumentera
 
 I det här projektet så är själva dokumentetation och processen en viktig del, det är därför
@@ -35,7 +38,7 @@ en Post mortem. Du kan läsa mer om vad det ska innehålla [här](https://github
 Vi kommer avsluta arbetet med att du får redovisa vad du har arbetat med i mindre grupper. Du ska då förbereda en demonstration 
 av ditt praktiska arbete och även en presentation i valfritt format (powerpoint, google pres.).
 
-Du får då ca 5 minuter på dig att visa projektet, berätta om ditt arbete med det samt lärdomar.
+Du får då 5-7 minuter på dig att visa projektet, berätta om ditt arbete med det samt lärdomar.
 
 ## Planering
 
@@ -48,3 +51,17 @@ Du får då ca 5 minuter på dig att visa projektet, berätta om ditt arbete med
 |  21   | Göra klart         |
 |  22   | Redovisningar      |
 |  23   | Uppsamling, avslut |
+
+## Bedömning
+
+I er inlämning så är inte slutprodukten det viktiga utan fokus för bedömningen ligger på att ni arbetat utifrån processen med
+
+* Planering
+  * Kanban bräde
+  * Loggbok
+* Git commits för arbetet
+* Dokumentation
+  * Post mortem
+* Redovisning
+
+Alla delarna ska finnas med och vara noggrant gjorda. Loggbok och eventuella git commits visar er process.
