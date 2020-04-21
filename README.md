@@ -40,3 +40,15 @@ Varje kort har en meny där du kan ändra det osv.
 När du väljer Edit på ett kort så får du upp en modal där du kan redigera det. Texten skrivs i ett format som
 heter [Markdown](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet), samma format som det är i README här på GIT och även dess wiki som vi ska titta senare på.
 
+Spara det du har arbetat med i mappen
+
+    projekt/
+
+Det kan vara bilder, kod, vadsomhelst. Du kan även skriva text här i MD formatet.
+När du har arbetat med något så behöver du sedan göra en commit i GIT klienten.
+
+![](https://raw.githubusercontent.com/jensnti/teknik-projekt/master/assets/commit.png)
+
+När din commit är gjord så Pushar du ditt arbete till github genom att klicka på Push origin.
+
+![](https://raw.githubusercontent.com/jensnti/teknik-projekt/master/assets/push.png)
