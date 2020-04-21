@@ -1,6 +1,10 @@
 # teknik-projekt
 Template för projektarbete i teknik.
 
+## Vad ska jag göra då?
+
+[Du hittar mer information om vad själva projektet här.](https://github.com/jensnti/teknik-projekt/blob/master/PROJEKT.md)
+
 ## Kom igång
 
 Efter att du har gått med i uppgiften på github classroom så behöver du klona den till din egen dator.
